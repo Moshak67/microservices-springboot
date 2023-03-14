@@ -1,0 +1,10 @@
+com/moshak/productservice/dto/ProductRequest.class
+com/moshak/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/moshak/productservice/dto/ProductResponse.class
+com/moshak/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/moshak/productservice/controller/ProductController.class
+com/moshak/productservice/model/Product.class
+com/moshak/productservice/repository/ProductRepository.class
+com/moshak/productservice/service/ProductService.class
+com/moshak/productservice/ProductServiceApplication.class
+com/moshak/productservice/model/Product$ProductBuilder.class

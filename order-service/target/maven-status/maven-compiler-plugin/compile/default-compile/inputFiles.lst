@@ -1,0 +1,8 @@
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/dto/OrderLineItemsDto.java
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/model/Orders.java
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/controller/OrderController.java
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/model/OrderLineItems.java
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/service/OrderService.java
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/OrderServiceApplication.java
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/dto/OrderRequest.java
+/Users/moshak/Documents/dev/microservices-springboot/order-service/src/main/java/com/moshak/orderservice/repository/OrderRepository.java

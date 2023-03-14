@@ -1,0 +1,5 @@
+com/moshak/inventoryservice/model/Inventory.class
+com/moshak/inventoryservice/service/InventoryService.class
+com/moshak/inventoryservice/controller/InventoryController.class
+com/moshak/inventoryservice/InventoryServiceApplication.class
+com/moshak/inventoryservice/repository/InventoryRepository.class

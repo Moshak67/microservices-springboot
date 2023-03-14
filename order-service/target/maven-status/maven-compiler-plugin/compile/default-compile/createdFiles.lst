@@ -1,0 +1,8 @@
+com/moshak/orderservice/dto/OrderRequest.class
+com/moshak/orderservice/dto/OrderLineItemsDto.class
+com/moshak/orderservice/OrderServiceApplication.class
+com/moshak/orderservice/repository/OrderRepository.class
+com/moshak/orderservice/service/OrderService.class
+com/moshak/orderservice/controller/OrderController.class
+com/moshak/orderservice/model/OrderLineItems.class
+com/moshak/orderservice/model/Orders.class

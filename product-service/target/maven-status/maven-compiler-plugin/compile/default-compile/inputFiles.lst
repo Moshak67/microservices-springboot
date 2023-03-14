@@ -1,0 +1,7 @@
+/Users/moshak/Documents/dev/microservices-springboot/product-service/src/main/java/com/moshak/productservice/dto/ProductResponse.java
+/Users/moshak/Documents/dev/microservices-springboot/product-service/src/main/java/com/moshak/productservice/model/Product.java
+/Users/moshak/Documents/dev/microservices-springboot/product-service/src/main/java/com/moshak/productservice/ProductServiceApplication.java
+/Users/moshak/Documents/dev/microservices-springboot/product-service/src/main/java/com/moshak/productservice/repository/ProductRepository.java
+/Users/moshak/Documents/dev/microservices-springboot/product-service/src/main/java/com/moshak/productservice/controller/ProductController.java
+/Users/moshak/Documents/dev/microservices-springboot/product-service/src/main/java/com/moshak/productservice/service/ProductService.java
+/Users/moshak/Documents/dev/microservices-springboot/product-service/src/main/java/com/moshak/productservice/dto/ProductRequest.java
